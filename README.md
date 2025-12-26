@@ -2,7 +2,7 @@
 
 This repository consists of processed dataset for anomaly detection for robots in warehouse environments.
 
-Training/Evaluation pipeline is available at this [repository]().
+Training/Evaluation pipeline is available at this [repository](https://github.com/Sequor-Robotics/Anomaly_detection.git).
 
 
 ### Dataset structure / Scenario Taxonomy
