@@ -27,6 +27,7 @@ Table below describes the structure and the composition of the dataset.
 |Negative|crash cross|N5|40|58.3411|
 |Negative|unsafe escape cross|N6|36|193.5397|
 
+<center>
 
 |Scenario ID|Experiment|
 |:---:|:---:|
@@ -38,6 +39,7 @@ Table below describes the structure and the composition of the dataset.
 |**N5**|<img src="./assets/N5_clip.gif" width="500">|
 |**N6**|<img src="./assets/N6_clip.gif" width="500">|
 
+</center>
 
 ### Definition of state-action
 
