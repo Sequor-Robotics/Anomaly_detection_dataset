@@ -13,7 +13,7 @@ Expert data, which starts with prefix 'E', includes three scenarios: safe straig
 
 Negative data, which starts with prefix 'N', includes six scenarios: straight/curve driving near static obstacles, jerky driving, crashing to wall, crashing to dynamic obstacle approaching straight, crashing to crossing dynamic obstacle, and dangerous escape from crossing dynamic obstacle.
 
-Table below describes the structure and the composition of this dataset.
+Table below describes the structure and the composition of the dataset.
 
 |Type|Scenario|Scenario ID|# trials|distance [m]|
 |:---:|:---:|:---:|:---:|:---:|
@@ -28,19 +28,15 @@ Table below describes the structure and the composition of this dataset.
 |Negative|unsafe escape cross|N6|36|193.5397|
 
 
-Expert 1, 2, 3
-
-<img src="./assets/E1_clip.gif" height="200">
-<img src="./assets/E2_clip.gif" height="200">
-<img src="./assets/E3_clip.gif" height="200"> <br>
-
-Negative 1, 4, 5, 6
-
-<img src="./assets/N1_clip.gif" height="207">
-<img src="./assets/N4_clip.gif" height="207">
-<img src="./assets/N5_clip.gif" height="207">
-<img src="./assets/N6_clip.gif" height="207">
-
+|Scenario ID|Experiment|
+|:---:|:---:|
+|**E1**|<img src="./assets/E1_clip.gif" width="500">|
+|**E2**|<img src="./assets/E2_clip.gif" width="500">|
+|**E3**|<img src="./assets/E3_clip.gif" width="500">|
+|**N1**|<img src="./assets/N1_clip.gif" width="500">|
+|**N4**|<img src="./assets/N4_clip.gif" width="500">|
+|**N5**|<img src="./assets/N5_clip.gif" width="500">|
+|**N6**|<img src="./assets/N6_clip.gif" width="500">|
 
 
 ### Definition of state-action
